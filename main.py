@@ -10,7 +10,7 @@ def main():
         x = int(input("enter number: "))
         total = x + y
         print(total)
-        x = y
+        y = x
 
 
     ########################################
